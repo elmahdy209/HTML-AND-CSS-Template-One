@@ -522,6 +522,18 @@ body {
     }
 }
 
+.contact .info .image {
+    position: relative;
+    width: 137px;
+    height: 140px;
+    margin: 60px auto 0;
+    padding-bottom: 0;
+}
+
+.contact .info .image img {
+    max-width: 100%;
+}
+
 
 /* End Contact */
 
@@ -540,6 +552,12 @@ body {
     font-weight: bold;
     color: var(--main-color);
 }
+
+
+/* End Footer */
+
+
+/* End Footer */
 
 
 /* End Footer */
